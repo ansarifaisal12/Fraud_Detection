@@ -1,0 +1,81 @@
+idx,Timestamp,TransactionID,UserID,MerchantCategory,TransactionAmount,Location,TimeOfDay,TransactionDuration,UserAge,UserGender
+95,2023-01-10T15:45:00Z,TX12359,U1015,Bank Transfer,500.0,Los Angeles,Afternoon,12.0,47,Male
+74,2023-02-21T21:45:00Z,TX12506,U1016,Gift Card,100.0,Longmont,Evening,1.1,43,Female
+92,2023-01-02T21:40:00Z,TX12358,U1014,Fitness Center,40.0,Cape Town,Night,5.0,27,Female
+8,2023-02-15T14:20:00Z,TX12350,U1006,Online Streaming,19.99,Houston,Afternoon,10.2,24,Female
+1,2023-01-01T09:45:00Z,TX12346,U1002,Online Electronics,350.0,Chicago,Afternoon,30.2,22,Female
+7,2023-01-02T09:00:00Z,TX12350,U1006,Bank,20.0,San Diego,Morning,2.0,40,Female
+87,2023-01-03T01:00:00Z,TX12358,U1014,Grocery,55.0,Los Angeles,Morning,5.0,29,Male
+84,2023-02-22T18:20:00Z,TX12507,U1017,Music Streaming,15.99,Denver,Evening,1.0,23,Male
+65,2023-01-07T09:15:00Z,TX12356,U1012,Pet Store,22.5,Phoenix,Morning,5.3,31,Female
+64,2023-02-20T17:00:00Z,TX12505,U1015,Travel Insurance,200.0,Boulder,Afternoon,1.5,25,Male
+51,2023-01-02T08:50:00Z,TX12504,U1014,Art Gallery,78.0,Miami,Evening,10.3,41,Female
+77,2023-01-02T22:30:00Z,TX12357,U1013,Restaurant,20.0,New York,Night,6.5,31,Female
+80,2023-01-02T08:25:00Z,TX12357,U1013,Online Electronics,500.0,Denver,Night,15.0,27,Female
+52,2023-01-02T11:20:00Z,TX12354,U1010,Car Service,300.0,Dallas,Afternoon,15.0,55,Male
+86,2023-01-02T18:35:00Z,TX12358,U1014,Jewelry,2000.0,New York,Evening,40.0,28,Female
+71,2023-01-02T11:25:00Z,TX12506,U1016,Outdoor Equipment,256.0,Phoenix,Afternoon,23.5,29,Male
+38,2023-02-18T21:00:00Z,TX12353,U1009,Restaurant,13.5,Austin,Night,7.0,37,Male
+41,2023-01-02T07:35:00Z,TX12503,U1013,Jewelry Store,215.75,Denver,Morning,14.0,34,Female
+25,2023-01-03T16:45:00Z,TX12352,U1008,Online Electronics,199.99,Denver,Evening,23.1,27,Male
+10,2023-01-01T22:45:00Z,TX12350,U1006,Gym Membership,150.0,Atlanta,Night,10.0,27,Male
+20,2023-01-02T00:15:00Z,TX12351,U1007,Electronics,1200.0,New York,Night,45.0,24,Female
+61,2023-01-02T10:05:00Z,TX12505,U1015,Health Supplements,123.5,Houston,Night,20.1,37,Male
+29,2023-01-03T17:30:00Z,TX12352,U1008,Furniture,349.0,Seattle,Evening,35.4,40,Female
+67,2023-01-02T20:15:00Z,TX12356,U1012,Concert,90.0,Houston,Evening,22.0,27,Female
+59,2023-01-06T12:05:00Z,TX12355,U1011,Books,23.99,Chicago,Afternoon,5.9,26,Female
+79,2023-01-08T13:00:00Z,TX12357,U1013,Gas Station,45.0,Phoenix,Morning,4.2,23,Female
+54,2023-02-19T08:50:00Z,TX12504,U1014,Event Tickets,150.0,Lakewood,Morning,2.1,32,Female
+37,2023-01-02T16:20:00Z,TX12353,U1009,Bookstore,15.99,Phoenix,Night,4.2,25,Female
+60,2023-01-02T05:40:00Z,TX12355,U1011,Jewelry,5000.0,Dallas,Night,25.0,22,Female
+24,2023-02-16T01:15:00Z,TX12501,U1011,Electronics,5000.0,Denver,Evening,3.7,54,Male
+36,2023-01-02T09:05:00Z,TX12353,U1009,Furniture,2500.0,New York,Afternoon,30.0,50,Male
+44,2023-02-18T13:35:00Z,TX12503,U1013,Flight Booking,2500.0,Denver,Afternoon,2.9,36,Female
+89,2023-01-09T15:50:00Z,TX12358,U1014,Electronics,129.99,San Francisco,Afternoon,20.1,38,Male
+50,2023-01-02T04:20:00Z,TX12354,U1010,Travel Insurance,110.0,Chicago,Night,12.0,30,Male
+30,2023-01-02T01:30:00Z,TX12352,U1008,Casino,2500.0,Las Vegas,Night,30.0,35,Male
+53,2023-01-02T07:45:00Z,TX12354,U1010,Health Food Store,45.75,Boston,Evening,6.8,31,Male
+23,2023-01-02T04:15:00Z,TX12351,U1007,Electronics,210.4,San Diego,Night,22.0,45,Male
+90,2023-01-02T09:50:00Z,TX12358,U1014,Healthcare,300.0,Seattle,Night,18.0,55,Female
+32,2023-01-02T07:00:00Z,TX12352,U1008,Gas Station,15.0,Houston,Morning,2.5,23,Female
+9,2023-01-02T14:20:00Z,TX12350,U1006,Automotive,215.75,Atlanta,Afternoon,25.6,29,Female
+97,2023-01-03T03:15:00Z,TX12359,U1015,Auto Parts,75.0,Atlanta,Afternoon,8.0,34,Male
+62,2023-01-02T14:35:00Z,TX12355,U1011,Online Education,250.0,Mexico City,Evening,10.0,28,Female
+22,2023-01-02T04:30:00Z,TX12351,U1007,Electronics,2100.0,Berlin,Early Morning,45.0,29,Male
+96,2023-01-02T20:25:00Z,TX12359,U1015,Home Appliances,2200.0,Boston,Night,32.0,37,Male
+93,2023-01-02T11:20:00Z,TX12358,U1014,Tech Gadgets,159.99,Phoenix,Evening,28.1,22,Male
+5,2023-01-02T10:00:00Z,TX12350,U1006,Grocery,45.0,Miami,Morning,8.4,33,Female
+26,2023-01-02T07:30:00Z,TX12352,U1008,Online Services,1000.0,Chicago,Morning,20.0,25,Female
+69,2023-01-07T19:40:00Z,TX12356,U1012,Restaurant,28.5,Los Angeles,Evening,15.8,33,Male
+18,2023-02-16T16:50:00Z,TX12351,U1007,Electronics,150.0,Dallas,Evening,25.3,45,Male
+49,2023-01-05T07:00:00Z,TX12354,U1010,Online Retail,99.99,Houston,Morning,23.7,34,Female
+58,2023-02-20T10:05:00Z,TX12355,U1011,Pharmacy,30.0,Atlanta,Morning,8.6,52,Female
+66,2023-01-02T14:00:00Z,TX12356,U1012,Travel,800.0,San Francisco,Morning,25.0,45,Male
+91,2023-01-02T14:55:00Z,TX12508,U1018,Bakery,45.0,San Antonio,Evening,12.5,32,Male
+11,2023-01-02T02:15:00Z,TX12500,U1010,Specialty Bookstore,56.3,Seattle,Night,12.0,39,Female
+82,2023-01-02T19:05:00Z,TX12357,U1013,Restaurant,110.0,New Delhi,Late Night,12.0,32,Male
+94,2023-02-23T19:40:00Z,TX12508,U1018,Pet Supplies,300.0,Denver,Evening,2.2,40,Female
+68,2023-02-21T13:30:00Z,TX12356,U1012,Online Streaming,9.99,Phoenix,Evening,11.5,27,Male
+85,2023-01-09T19:30:00Z,TX12358,U1014,Online Subscription,12.99,Chicago,Night,3.1,28,Female
+46,2023-01-02T10:55:00Z,TX12354,U1010,Automotive,3000.0,Boston,Evening,35.0,38,Male
+21,2023-01-02T03:45:00Z,TX12501,U1011,Gourmet Coffee,24.8,Portland,Evening,3.7,26,Male
+17,2023-01-02T10:30:00Z,TX12351,U1007,Auto Repair,500.0,Dallas,Afternoon,20.0,32,Male
+45,2023-01-05T18:25:00Z,TX12354,U1010,Clothing,60.0,Austin,Night,14.5,22,Male
+6,2023-01-02T03:20:00Z,TX12350,U1006,Fast Food,100.0,Los Angeles,Evening,2.0,33,Female
+12,2023-01-02T03:00:00Z,TX12350,U1006,Online Gambling,1050.0,Tokyo,Night,60.0,40,Male
+3,2023-01-01T11:25:00Z,TX12348,U1004,Clothing,89.99,San Francisco,Night,20.3,30,Female
+42,2023-01-02T08:45:00Z,TX12353,U1009,Streaming Service,5.99,Seattle,Afternoon,0.5,34,Male
+31,2023-01-02T05:20:00Z,TX12502,U1012,Music Instruments,110.0,Austin,Morning,18.5,45,Male
+48,2023-02-19T17:45:00Z,TX12354,U1010,Grocery,18.25,Miami,Afternoon,12.1,29,Female
+78,2023-02-22T22:20:00Z,TX12357,U1013,Grocery,55.0,San Diego,Night,15.8,42,Female
+73,2023-01-02T09:10:00Z,TX12356,U1012,Luxury Watches,1450.0,Seattle,Evening,29.9,55,Female
+15,2023-01-02T14:30:00Z,TX12351,U1007,Restaurant,15.0,Houston,Afternoon,6.7,29,Male
+76,2023-01-02T16:40:00Z,TX12357,U1013,Sports Equipment,1500.0,Chicago,Afternoon,30.0,32,Female
+33,2023-01-02T05:05:00Z,TX12352,U1008,Veterinary Services,67.0,Austin,Morning,12.1,33,Female
+0,2023-01-01T08:30:00Z,TX12345,U1001,Grocery,120.5,New York,Morning,15.5,35,Male
+81,2023-01-02T13:40:00Z,TX12507,U1017,Boutique,134.75,San Diego,Morning,11.8,31,Female
+47,2023-01-02T17:40:00Z,TX12354,U1010,Fitness Center,40.0,Miami,Morning,5.0,33,Male
+57,2023-01-02T18:55:00Z,TX12355,U1011,Hotel,125.0,Orlando,Afternoon,25.0,38,Male
+98,2023-02-24T15:15:00Z,TX12359,U1015,Online Electronics,200.0,Las Vegas,Evening,23.4,38,Female
+2,2023-01-01T10:10:00Z,TX12347,U1003,Pharmacy,23.75,Los Angeles,Evening,5.1,41,Male
+63,2023-01-02T08:30:00Z,TX12355,U1011,Auto Repair Shop,180.0,Atlanta,Morning,30.2,28,Male

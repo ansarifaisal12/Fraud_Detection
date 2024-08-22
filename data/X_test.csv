@@ -1,0 +1,21 @@
+idx,Timestamp,TransactionID,UserID,MerchantCategory,TransactionAmount,Location,TimeOfDay,TransactionDuration,UserAge,UserGender
+28,2023-02-17T08:35:00Z,TX12352,U1008,Online Electronics,220.0,Seattle,Morning,18.4,33,Female
+88,2023-02-23T09:55:00Z,TX12358,U1014,Clothing,49.99,Denver,Morning,22.3,26,Male
+72,2023-01-02T16:10:00Z,TX12356,U1012,Home Goods,220.0,Sydney,Evening,8.0,36,Female
+56,2023-01-02T12:20:00Z,TX12355,U1011,Luxury Goods,10000.0,Los Angeles,Night,40.0,29,Female
+13,2023-01-02T02:30:00Z,TX12350,U1006,Hobby Shop,59.99,Denver,Evening,7.3,29,Female
+27,2023-01-02T13:45:00Z,TX12352,U1008,Online Gaming,25.0,Seattle,Evening,3.5,21,Female
+39,2023-01-04T18:15:00Z,TX12353,U1009,Grocery,58.45,Dallas,Night,18.2,32,Male
+40,2023-01-02T02:55:00Z,TX12353,U1009,Pharmacy,13.5,Philadelphia,Night,5.5,48,Female
+35,2023-01-04T11:00:00Z,TX12353,U1009,Bookstore,25.0,Seattle,Morning,7.9,36,Female
+43,2023-01-02T06:50:00Z,TX12353,U1009,Pharmacy,22.5,Orlando,Morning,4.6,36,Female
+83,2023-01-02T10:00:00Z,TX12357,U1013,Floral Shop,33.2,New Orleans,Morning,3.9,37,Female
+4,2023-01-01T12:50:00Z,TX12349,U1005,Restaurant,45.0,Boston,Evening,10.2,28,Male
+99,2023-01-10T22:30:00Z,TX12359,U1015,Online Gaming,7.99,New York,Night,3.7,19,Male
+75,2023-01-08T13:00:00Z,TX12357,U1013,Furniture,350.0,Boston,Afternoon,30.5,25,Male
+19,2023-01-02T16:45:00Z,TX12351,U1007,Electronics,85.99,Miami,Afternoon,12.3,27,Male
+70,2023-01-02T07:05:00Z,TX12356,U1012,Restaurant,250.0,San Francisco,Night,20.0,33,Male
+14,2023-02-15T02:30:00Z,TX12500,U1010,Health Services,1000.0,Boulder,Evening,2.5,49,Female
+55,2023-01-06T17:30:00Z,TX12355,U1011,Gas Station,50.0,Atlanta,Evening,10.0,44,Female
+16,2023-01-02T05:45:00Z,TX12351,U1007,Electronics,5000.0,San Francisco,Night,45.0,40,Male
+34,2023-02-17T23:55:00Z,TX12502,U1012,Online Gambling,100.0,Aurora,Night,1.2,29,Male
