@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Fraud Detection ML Project
+# Fraud Detection ML Project
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Latest-green)
@@ -44,24 +44,9 @@ fraud_detection_project/
 │
 ├── requirements.txt                     # List of required Python packages
 ├── main.py                             # Entry point for the project (optional, if needed)
-└── README.md                            # Project overview and documentation  
+└── README.md                            # Project overview and documentation
 
-## 🛠 Installation 
-
-1. Clone the repository:
-   git clone https://github.com/yourusername/fraud-detection-project.git
-
-2. Navigate to the project directory:
-   cd fraud-detection-project
-
-3. Install the required packages:
-   pip install -r requirements.txt
-
-## 🚀 Usage
-
-1. Run the Streamlit app:
-   streamlit run app/app.py
-
+```
 2. Open your web browser and go to http://localhost:8501
 
 ## 📊 Model Performance
@@ -90,3 +75,4 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 ## 🌟 Show your support
 
 Give a ⭐️ if this project helped you!
+  
