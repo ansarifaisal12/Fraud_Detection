@@ -16,31 +16,37 @@ A robust, end-to-end machine learning project for detecting fraudulent transacti
 
 ## 🏗 Project Structure
 
+```plaintext
 fraud_detection_project/
 │
 ├── data/
-│   └── transactions.csv
+│   └── transactions.csv                # Raw transaction data
+│
 ├── src/
-│   ├── data_ingestion.py
-│   ├── data_transformation.py
-│   ├── model_training.py
-│   ├── model_evaluation.py
-│   └── utils.py
+│   ├── data_ingestion.py                # Script for loading data
+│   ├── data_transformation.py           # Script for preprocessing and feature engineering
+│   ├── model_training.py                # Script for training the XGBoost model
+│   ├── model_evaluation.py              # Script for evaluating the model
+│   └── utils.py                         # Utility functions used across the project
+│
 ├── models/
-│   └── fraud_detection_model.pkl
+│   └── fraud_detection_model.pkl        # Serialized trained XGBoost model
+│
 ├── app/
 │   ├── static/
 │   │   ├── css/
-│   │   │   └── style.css
+│   │   │   └── style.css                # Custom CSS for Streamlit app
 │   │   └── js/
-│   │       └── main.js
+│   │       └── main.js                  # Custom JavaScript for Streamlit app
 │   ├── templates/
-│   │   └── index.html
-│   └── app.py
-├── requirements.txt
-└── main.py
+│   │   └── index.html                   # HTML template for the Streamlit app
+│   └── app.py                           # Streamlit application script
+│
+├── requirements.txt                     # List of required Python packages
+├── main.py                             # Entry point for the project (optional, if needed)
+└── README.md                            # Project overview and documentation  
 
-## 🛠 Installation
+## 🛠 Installation 
 
 1. Clone the repository:
    git clone https://github.com/yourusername/fraud-detection-project.git
