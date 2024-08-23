@@ -15,6 +15,10 @@ A robust, end-to-end machine learning project for detecting fraudulent transacti
 - 🛠 Modular and maintainable code structure
 
 
+https://github.com/user-attachments/assets/f0fad6d5-feaa-4117-8702-8d00e961e7c9
+
+
+
 
 ## 🏗 Project Structure
 
@@ -34,15 +38,8 @@ fraud_detection_project/
 ├── models/
 │   └── fraud_detection_model.pkl        # Serialized trained XGBoost model
 │
-├── app/
-│   ├── static/
-│   │   ├── css/
-│   │   │   └── style.css                # Custom CSS for Streamlit app
-│   │   └── js/
-│   │       └── main.js                  # Custom JavaScript for Streamlit app
-│   ├── templates/
-│   │   └── index.html                   # HTML template for the Streamlit app
-│   └── app.py                           # Streamlit application script
+├── app.py
+│                                       # Streamlit application script
 │
 ├── requirements.txt                     # List of required Python packages
 ├── main.py                             # Entry point for the project (optional, if needed)
