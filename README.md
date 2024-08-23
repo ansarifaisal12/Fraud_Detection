@@ -14,10 +14,6 @@ A robust, end-to-end machine learning project for detecting fraudulent transacti
 - ☁️ Deployed on Streamlit Cloud for easy access
 - 🛠 Modular and maintainable code structure
 
-  
-
-https://github.com/user-attachments/assets/78bb363a-e25f-4951-a67f-31ee2db7822e
-
 
 
 ## 🏗 Project Structure
