@@ -14,6 +14,12 @@ A robust, end-to-end machine learning project for detecting fraudulent transacti
 - ☁️ Deployed on Streamlit Cloud for easy access
 - 🛠 Modular and maintainable code structure
 
+  
+
+https://github.com/user-attachments/assets/78bb363a-e25f-4951-a67f-31ee2db7822e
+
+
+
 ## 🏗 Project Structure
 
 ```plaintext
@@ -47,7 +53,7 @@ fraud_detection_project/
 └── README.md                            # Project overview and documentation
 
 ```
-2. Open your web browser and go to http://localhost:8501
+2. Open your web browser and go to https://frauddetection-123.streamlit.app
 
 ## 📊 Model Performance
 
@@ -67,10 +73,10 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 🙋‍♂️ Author
 
-**Your Name**
+**Muhammad Faisal**
 
-- Github: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Github: [@faisalansari](https://github.com/ansarifaisal12/)
+- LinkedIn: [muhammadfaisal](https://www.linkedin.com/in/muhammadfaisal12/)
 
 ## 🌟 Show your support
 
